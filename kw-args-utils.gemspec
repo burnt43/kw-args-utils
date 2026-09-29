@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'kw-args-utils'
-  s.version     = '0.0.2'
+  s.version     = '0.0.3'
   s.summary     = 'helper for keyword arguments in ruby'
   s.description = 'helper for keyword arguments in ruby'
   s.authors     = ['James Carson']
